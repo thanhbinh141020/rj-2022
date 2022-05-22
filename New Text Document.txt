@@ -1,0 +1,13 @@
+git clone kéo source code v?
+git status ki?m tra tr?ng thái
+git add .
+git commit -m "create index.html"  ghi chú
+git push origin main d?y code lên github
+
+
+
+
+
+
+
+
